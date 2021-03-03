@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adith</h1>
-<h3 align="center">A 14 y/o student, with a deep passion for learning and working on Programming and Electronics Projects</h3>
+<h3 align="center">A 15 y/o student, with a deep passion for learning and working on Programming and Electronics Projects</h3>
 
 - 🔭 I’m currently working on [SmartSecuritySystem](https://github.com/Adith625/SmartSecuritySystem)
 
